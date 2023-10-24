@@ -20,7 +20,7 @@ import pandas as pd
 def check_password():
 
     def password_entered():
-        if st.session_state["password"] == st.secrets["password"]:
+        if st.session_state["password"] == "password":
             st.session_state["password_correct"] = True
             del st.session_state["password"]  
         else:
