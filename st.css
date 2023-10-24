@@ -1,0 +1,33 @@
+.container {
+    padding: 20px;
+    background-color: rgb(27,60,92); 
+    box-shadow: 0 4px 8px rgba(137,209,235);
+    border-radius: 14px;
+    width: 240px;
+    height: 120px;
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+    color: #8ad3f0;
+}
+
+.container .metric {
+    font-size: 40px;
+    color: #e6f7fc;
+}
+
+.large_container {
+    padding: 20px;
+    background-color: rgb(27,60,92); 
+    box-shadow: 0 2px 4px rgba(137,209,235);
+    border-radius: 14px;
+    width: 320px;
+    height: 120px;
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+    color: #8ad3f0;
+}
+
+.large_container .metric {
+    font-size: 40px;
+    color: #e6f7fc;
+}
