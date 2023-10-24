@@ -1,8 +1,8 @@
-pandas==1.5.3
-pymongo==4.4.0
-python-dotenv==1.0.0
-streamlit==1.22.0
-plotly==5.17.0
+pandas
+pymongo
+python-dotenv
+streamlit
+plotly
 nltk
 folium
 streamlit-folium
