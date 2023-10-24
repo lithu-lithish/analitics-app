@@ -6,3 +6,4 @@ plotly
 nltk
 folium
 streamlit-folium
+geopy
